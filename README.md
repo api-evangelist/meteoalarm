@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MeteoAlarm (EUMETNET) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+MeteoAlarm, operated by the European Meteorological Network (EUMETNET), provides a pan‑European early‑warning service that aggregates weather hazard information from national meteorological services. The platform offers real‑time alerts on floods, storms, heatwaves and other hazards, presenting data through an interactive map and list view for the public and authorities across Europe.
 
-**Areas:** Company
+**Areas:** Weather · EarlyWarning · Europe · PublicService · Meteorology
 
 ## MeteoAlarm (EUMETNET) on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for MeteoAlarm (EUMETNET) is published on APIs.io rather tha
 
 ### APIs (1)
 
-- [MeteoAlarm API](https://apis.io/apis/meteoalarm/meteoalarm-api/) — Provides weather alert data for Europe via the MeteoAlarm service.
+- [MeteoAlarm API](https://apis.io/apis/meteoalarm/meteoalarm-api/) — MeteoAlarm provides early‑warning weather alerts for Europe via a public interactive map and list view.
 
 ### Published properties
 
@@ -97,25 +97,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 9.3** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 13.1** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 39.3 |
+| Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 14.3 |
+| Operational transparency | 15.8 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 19.1 |
+| Access clarity | 23.7 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -135,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/meteoalarm/](https://apis.io/providers/meteoalarm/).
 
